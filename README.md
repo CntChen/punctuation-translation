@@ -8,3 +8,4 @@ When reading English technology documents, some English punctuations name may co
 | ASCII Code | Character | English Name | 中文名 | More |
 | :-: | :-: | :-: | :-: | :-: |
 | - | " | double quote | 双引号 | |
+| - | / | forward slash | 斜杠 | |
