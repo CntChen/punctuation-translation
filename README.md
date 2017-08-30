@@ -6,5 +6,5 @@ When reading English technology documents, some English punctuations name may co
 ## Table
 
 | ASCII Code | Character | English Name | 中文名 | More |
-| :-: | :-: | :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: | :-: |
 | - | " | double quote | 双引号 | |
