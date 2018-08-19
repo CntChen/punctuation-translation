@@ -9,3 +9,11 @@ When reading English technology documents, some English punctuation name may con
 | :-: | :-: | :-: | :-: | :-: |
 | - | " | double quote | 双引号 | |
 | - | / | forward slash | 斜杠 | |
+| - | ( | open parenthesis | 开括号 | |
+| - | ) | close parenthesis | 闭括号 | |
+| - | [ | open bracket | 开中括号 | |
+| - | ] | close bracket | 闭中括号 | |
+| - | { | open brace | 开大括号 | |
+| - | } | close brace | 闭大括号 | |
+| - | ` | backtick/backquote | 反引号 | |
+
