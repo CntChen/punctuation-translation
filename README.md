@@ -1,7 +1,7 @@
 # Punctuation Translation
 
 ## Why
-When reading English technology documents, some English punctuation name may confuse us. This project collects English punctuations character and it's name into a tabel.
+When reading English technology documents, some English punctuation name may confuse us. This project collects English punctuations character and it's name into a table.
 
 ## Table
 
