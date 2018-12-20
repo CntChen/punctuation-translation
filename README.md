@@ -16,4 +16,7 @@ When reading English technology documents, some English punctuation name may con
 | - | { | open brace | 开大括号 | |
 | - | } | close brace | 闭大括号 | |
 | - | ` | backtick/backquote | 反引号 | |
-
+| - | * | asterisk | 星号 | |
+| - | ? | question mark | 问号 | |
+| - | . | dot | 点号 | 待确定 |
+| - | $ | dollar sign | 美元符号 |
