@@ -8,6 +8,7 @@ When reading English technology documents, some English punctuation name may con
 | ASCII Code | Character | English Name | 中文名 | More |
 | :-: | :-: | :-: | :-: | :-: |
 | - | " | double quote | 双引号 | |
+| - | ' | single quote | 单引号 | |
 | - | / | forward slash | 斜杠 | |
 | - | ( | open parenthesis | 开括号 | |
 | - | ) | close parenthesis | 闭括号 | |
@@ -20,3 +21,4 @@ When reading English technology documents, some English punctuation name may con
 | - | ? | question mark | 问号 | |
 | - | . | dot | 点号 | 待确定 |
 | - | $ | dollar sign | 美元符号 |
+| - | ! | exclamation | 感叹号 |
