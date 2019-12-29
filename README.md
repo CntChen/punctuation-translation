@@ -22,6 +22,6 @@ When reading English technology documents, some English punctuation name may con
 | - | . | dot | 点号 | 待确定 |
 | - | $ | dollar sign | 美元符号 |
 | - | ! | exclamation | 感叹号 |
-| - | | | vertical bar | 竖线 |
+| - | \| | vertical bar | 竖线 |
 
 ## EOF
